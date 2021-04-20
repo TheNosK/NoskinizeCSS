@@ -1,7 +1,4 @@
-* {
-    box-sizing: border-box;
-}
+// ./noskalizescss/modules/_grid.scss
 
-$gapH: 1em;
-$gapV: 3em;
-
+@import "modules/init";
+@import "modules/grid";
